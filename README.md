@@ -10,3 +10,6 @@ The face mask detection was developed using simple machine learning model called
 
 Face Recognition:
 The face recognition module was developed using an python third party library called face-recognition module developed by MIT and it produced an accuracy of 99.38%.
+
+Even a research paper was published based on this project in IJCRT journal. The link as follows:
+https://ijcrt.org/papers/IJCRT2104588.pdf
